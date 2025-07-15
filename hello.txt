@@ -1,0 +1,9 @@
+CI/CD DEVOPS SESSION 1
+DEPLOY FILES INTO GITHUB VIA GIT
+git init
+touch h.txt
+git add h.txt
+git commit
+git remote add
+git push origin main
+
